@@ -1,0 +1,6 @@
+Libraries used in this project :
+1- numpy
+2- opencv
+3- random 
+
+it's better to install dlib library in order to used later 'Maybe'.
